@@ -1,0 +1,13 @@
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.app-body {
+  padding: 20px;
+}
+
+:root {
+    --btn-color:#fdc094;
+}

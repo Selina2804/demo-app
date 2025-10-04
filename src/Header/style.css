@@ -1,0 +1,56 @@
+
+.header {
+  background: #ff9190; 
+  position: absolute;     
+  width: 100%;
+  padding: 12px 24px;
+  z-index: 1000;           
+}
+
+.body-header .lego {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.lego .logo {
+  height: 48px;
+  cursor: pointer;
+}
+
+.nav {
+  display: flex;
+  gap: 24px;
+  margin-left: auto;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;         
+  font-weight: 500;
+}
+
+.nav a:hover {
+  color: #b6b5b2;
+}
+
+.btn-header {
+  margin-left: 24px;
+  background: var(--btn-color); 
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+}
+
+.btn-header a {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.btn-header:hover {
+  background: #f9ceb1; 
+}

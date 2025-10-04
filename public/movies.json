@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w200/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "desc": "Biệt đội Avengers cùng nhau chống lại Thanos để cứu vũ trụ.",
+    "video": "https://res.cloudinary.com/dal1vvocc/video/upload/v1759563001/aven_zs80vd.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Free Guy",
+    "poster": "https://image.tmdb.org/t/p/w200/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+    "desc": "Một nhân vật phụ trong game trở thành anh hùng khi phát hiện ra sự thật.",
+    "video": "https://res.cloudinary.com/dal1vvocc/video/upload/v1759562993/freeg_ivo5tw.mp4"
+  },
+   {
+    "id": 3,
+    "title": "Harry Potter và Hòn đá Phù thủy",
+    "poster": "https://s3.cloud.cmctelecom.vn/tinhte1/2018/12/4513265_1.jpg",
+    "desc": "Harry Potter và Hòn đá Phù thủy là một bộ phim giả tưởng năm 2001 được đạo diễn bởi Chris Colombus và được phát hành bởi Warner Bros. Pictures, dựa theo cuốn tiểu thuyết cùng tên năm 1997 của nhà văn Anh J. K. Rowling.",
+    "video": "https://res.cloudinary.com/dal1vvocc/video/upload/v1759571452/hrp_honda_k7delp.mp4"
+  }
+]
